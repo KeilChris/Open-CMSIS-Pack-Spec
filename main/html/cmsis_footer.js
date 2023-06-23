@@ -1,3 +1,3 @@
 function writeFooter()  {
-    document.write('Generated on Mon May 15 2023 08:15:09 for Open-CMSIS-Pack Version 1.7.24 by Arm Ltd. All rights reserved.');
+    document.write('Generated on Fri Jun 23 2023 07:35:21 for Open-CMSIS-Pack Version 1.7.25 by Arm Ltd. All rights reserved.');
 };
